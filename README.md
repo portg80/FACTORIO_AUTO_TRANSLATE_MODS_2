@@ -46,8 +46,11 @@ API_KEY_GEMINI = "ouhsdfnfsduoifh9sdhgf9erhgf9egh9hg90herghe0gh08igh0ehg0hg0"
 ---
 
 # Как переводить моды factorio с помощью моей программы?
-Скачай для начала PyCharm:
-И Python:
+Скачай и установи для начала PyCharm: https://www.jetbrains.com/pycharm/download/?section=windows
+
+И Python: https://www.python.org/downloads/
+<img width="1872" height="623" alt="image" src="https://github.com/user-attachments/assets/0fe33568-2b19-4924-bd6d-d788a91f0a83" />
+
 
 ### 1) Скачай этот репозиторий: **Code → Download ZIP** и распакуй.
 <img width="1872" height="896" alt="image" src="https://github.com/user-attachments/assets/898e2ae0-c6e7-4dbc-856d-2c4d87845418" />
