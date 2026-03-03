@@ -55,6 +55,7 @@ API_KEY_GEMINI = "ouhsdfnfsduoifh9sdhgf9erhgf9egh9hg90herghe0gh08igh0ehg0hg0"
 
 ### 1) Скачай этот репозиторий: **Code → Download ZIP** и распакуй.
 <img width="1872" height="896" alt="image" src="https://github.com/user-attachments/assets/898e2ae0-c6e7-4dbc-856d-2c4d87845418" />
+<img width="2489" height="451" alt="image" src="https://github.com/user-attachments/assets/96f1aab4-54d6-4f17-b6fb-bbf0a8154040" />
 
 ### 2) В PyCharm создай **New Project** введи название и всё остальное по умолчанию пусть останется.
 ### 3) Скопируй **все файлы моей программы** (`*.py`) в свой проект (Те что ты скачал на первом шаге).
