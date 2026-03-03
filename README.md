@@ -1,6 +1,6 @@
 # Factorio Mod Translator (EN → RU)
 
-Инструмент для перевода **локализаций модов Factorio** с английского на русский.
+Инструмент для перевода **локализаций модов Factorio** с английского на русский. You can translate it into any language!
 <img width="954" height="425" alt="факторио перевод плашка" src="https://github.com/user-attachments/assets/d8a89ef3-3675-43ea-9dac-ee89a655be73" />
 
 Кратко о главном:
