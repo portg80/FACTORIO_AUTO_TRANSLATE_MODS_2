@@ -20,6 +20,10 @@
 
 
 ---
+# Видеоинструкция. Установка, запуск, перевод
+
+
+---
 
 ## Получаем Gemini API ключ для перевода через ИИ:
 
@@ -58,6 +62,12 @@ API_KEY_GEMINI = "ouhsdfnfsduoifh9sdhgf9erhgf9egh9hg90herghe0gh08igh0ehg0hg0"
 <img width="2489" height="451" alt="image" src="https://github.com/user-attachments/assets/96f1aab4-54d6-4f17-b6fb-bbf0a8154040" />
 
 ### 2) В PyCharm создай **New Project** введи название и всё остальное по умолчанию пусть останется.
+### 2.1) Устанавливаем зависимости, для этого вводим команду в терминал:
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/660791a1-a20f-4c22-b37f-1a35a0f6a775" />
+
+```
+python -m pip install -U requests openai google-genai
+```
 ### 3) Скопируй **все файлы моей программы** (`*.py`) в свой проект (Те что ты скачал на первом шаге).
 <img width="1384" height="1178" alt="image" src="https://github.com/user-attachments/assets/7ef6c1d7-c75a-4c7d-867a-74986530ca00" />
 
