@@ -61,12 +61,6 @@ API_KEY_GEMINI = "ouhsdfnfsduoifh9sdhgf9erhgf9egh9hg90herghe0gh08igh0ehg0hg0"
 <img width="2489" height="451" alt="image" src="https://github.com/user-attachments/assets/96f1aab4-54d6-4f17-b6fb-bbf0a8154040" />
 
 ### 2) В PyCharm создай **New Project** введи название и всё остальное по умолчанию пусть останется.
-### 2.1) Устанавливаем зависимости, для этого вводим команду в терминал:
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/660791a1-a20f-4c22-b37f-1a35a0f6a775" />
-
-```
-python -m pip install -U requests openai google-genai
-```
 ### 3) Скопируй **все файлы моей программы** (`*.py`) в свой проект (Те что ты скачал на первом шаге).
 <img width="1384" height="1178" alt="image" src="https://github.com/user-attachments/assets/7ef6c1d7-c75a-4c7d-867a-74986530ca00" />
 
@@ -85,18 +79,12 @@ project/
     AnotherMod_0.9.0.zip
 ```
 
-### 5) Установи зависимости (в PyCharm → Terminal):
-<img width="1384" height="1177" alt="image" src="https://github.com/user-attachments/assets/10d321a1-714d-4564-bc5f-d3358295b719" />
+### 5) Устанавливаем зависимости, для этого вводим команду в терминал:
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/660791a1-a20f-4c22-b37f-1a35a0f6a775" />
 
-   - Для перевода через **Gemini**:
-     `pip install -U google-genai`
-
-   - Для интерактивного режима (пункт 4):
-     `pip install requests`
-
-   - Вариант OpenAI (пункт 5) есть, но **я не рекомендую тк не тестировал его ВООБЩЕ**:
-     `pip install openai`
-
+```
+python -m pip install -U requests openai google-genai
+```
 
 ### 6) Открой в Pytharm файл main_gpt.py и запусти зеленой кнопкой скрипт
 <img width="1078" height="918" alt="image" src="https://github.com/user-attachments/assets/cc7073b3-bc2d-4684-875e-eb128b5b8b0e" />
